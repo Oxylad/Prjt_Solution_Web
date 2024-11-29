@@ -1,8 +1,8 @@
-Thomas : Accueil.php
+Nathan : Accueil.php
 Liam : Produits.php
 Mael : commander.php
 Oscar : Contact.php
-
+Thomas : Footer & header
 
 
 # Prjt_Solution_Web
